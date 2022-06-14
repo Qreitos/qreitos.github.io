@@ -1,0 +1,87 @@
+header {
+    background-color: #333333;
+}
+
+body {
+    background-color: rgb(225, 228, 228);
+}
+
+#navigationPanel {
+    background-image:url(https://www.toptal.com/designers/subtlepatterns/uploads/carbon_fibre.png) ;
+    height: 80px;
+}
+
+.logo {
+    position: absolute;
+    right: 50px;
+    top: 35px;
+    height: 40px;
+    width: 40px;  
+}
+
+.links li {
+    position: relative;
+    top: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    display: inline-block;
+    padding: 0px 20px;
+    font-size: 25px; 
+}
+
+a {
+    text-decoration: none;
+    color: #ff0099;
+}
+
+.textTitle {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    margin-top: 100px;  
+}
+
+h2 {
+    text-align: center;
+}
+
+.studentInfo {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    line-height: 30px;
+    margin-top: 50px;
+    padding: 0% 10%;
+}
+
+.separator {
+    margin-top: 50px;
+    border: 0;
+    border-top: 5px dashed; 
+    width: 35px;
+
+}
+
+.info {
+    margin-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 0% 10%;
+}
+
+h4 {
+    
+    font-size: 20px;
+}
+
+h5 {
+    font-size: 15px;
+}
+
+
+
+
+
+
+ 
